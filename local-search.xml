@@ -8,8 +8,14 @@
     <link href="/2021/10/13/222222/"/>
     <url>/2021/10/13/222222/</url>
     
-    <content type="html"><![CDATA[<p>2222111111</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="123"><a href="#123" class="headerlink" title="123"></a>123</h1><h4 id="2222"><a href="#2222" class="headerlink" title="2222"></a>2222</h4><h6 id="223333"><a href="#223333" class="headerlink" title="223333"></a>223333</h6>]]></content>
     
+    
+    <categories>
+      
+      <category>test1</category>
+      
+    </categories>
     
     
     <tags>
